@@ -130,3 +130,4 @@ class analysis():
             cash += 0.01
         self.optimal.to_csv("optimal.csv")
 
+
